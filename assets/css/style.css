@@ -1,5 +1,27 @@
 /* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
+
+main {
+  display:flex;
+}
+
+
+
+  h1 {
+    color: blue;
+    font-size: 25px;
   }
+
+ .img-container {
+   background-color:cadetblue;
+ }
+
+.contact {
+  list-style: none;
+  
+} 
+
+.experience1{
+  display: flex;
+  justify-content: space-between;
+}
+
